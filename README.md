@@ -1,7 +1,6 @@
 # 🌱 EcoTrack – AI-Powered Personal Carbon Footprint Tracker
-## 🧠 My Idea in a Nutshell
-EcoTrack is a mobile application that uses artificial intelligence to analyze daily user activities — such as transportation, diet, shopping, and energy use — and delivers personalized, actionable recommendations to help reduce their carbon footprint in real time.
-
+## Summary
+EcoTrack is an AI-powered application designed to help individuals understand and reduce their personal carbon footprint. By analyzing daily activities such as transportation, diet, shopping, and energy consumption, the system uses machine learning models to estimate carbon emissions and provide personalized, data-driven recommendations. The goal of EcoTrack is to support more sustainable decision-making at the individual level and encourage environmentally responsible behavior.
 ---
 
 ## 📚 Background  
